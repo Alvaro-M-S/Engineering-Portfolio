@@ -1,4 +1,4 @@
-# 🧃 Pneumatic Simulation – FluidSIM (Automation and Robotics)
+# 🧰 Pneumatic Simulation – FluidSIM (Automation and Robotics)
 
 This folder contains a pneumatic automation project developed using **FluidSIM** for the *Automation and Robotics* course.
 
