@@ -1,6 +1,6 @@
 # 🎓 Bachelor's Thesis
 
-This folder contains the complete documentation, research, and findings for my **Bachelor's Thesis**. The thesis focuses on [INTELLIGENT DESIGN OF CUSTOMISED MEDICAL DEVICES: EXPLORING THE EFFICIENCY OF THE SUPERELLIPSE AND THE CONVEX HULL].
+This folder contains the complete documentation, research, and findings for my **Bachelor's Thesis**. The thesis focuses on INTELLIGENT DESIGN OF CUSTOMISED MEDICAL DEVICES: EXPLORING THE EFFICIENCY OF THE SUPERELLIPSE AND THE CONVEX HULL.
 
 The work presented in this thesis reflects the culmination of my studies and research during my Bachelor's degree, where I applied various engineering concepts and methodologies to explore the implementation and improvement of using different AI models to personalize prostheses and improve its mechanical behaviour. 
 
