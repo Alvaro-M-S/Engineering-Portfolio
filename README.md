@@ -22,7 +22,7 @@ If you're reviewing this repository as part of a job application, thank you for 
 ## 📎 Quick Links
 
 - [📁 University Projects](./University)
-- [🏎️ Formula Student](./FormulaStudent)
+- [🏎️ Formula Student](./Formula Student)
 - [📄 My CV](./CV.pdf)
 
 ---
