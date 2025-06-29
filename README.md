@@ -22,8 +22,8 @@ If you're reviewing this repository as part of a job application, thank you for 
 ## 📎 Quick Links
 
 - [📁 University Projects](./University)
-- [🏎️ Formula Student](./formula-student)
-- [📄 My CV](./cv.pdf)
+- [🏎️ Formula Student](./Formula-Student)
+- [📄 My CV](./CV.pdf)
 
 ---
 
