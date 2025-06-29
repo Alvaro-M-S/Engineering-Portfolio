@@ -59,6 +59,7 @@ As a core contributor (and later captain) I took part in a wide range of technic
 - Manufactured new sidepod molds.
 - Supported teammate's thesis: mold and laminate fabrication of both wings with ribs and spars.
 - Assemble front and rear wings.
+- 3DPrinted prototyping
 
 #### 🟣 Composites / INTA
 - Cut/assemble monocoque core.
