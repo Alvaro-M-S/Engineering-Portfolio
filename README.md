@@ -23,7 +23,7 @@ If you're reviewing this repository as part of a job application, thank you for 
 
 - [📁 University Projects](./University)
 - [🏎️ Formula Student](./Formula%20Student)
-- [📄 My CV](./CV.pdf)
+- [📄 My CV](./CV_AlvaroMorales.pdf)
 
 ---
 
