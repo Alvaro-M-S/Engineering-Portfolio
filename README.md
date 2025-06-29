@@ -27,4 +27,4 @@ If you're reviewing this repository as part of a job application, thank you for 
 
 ---
 
-📬 **Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/alvaro-morales-sanchez-71919b226/) or email: alvaromoralessanchez@outlook.es
+📬 **Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/alvaro-morales-sanchez-71919b226/) or email: alvaromoralessanchez@outlook.es **
